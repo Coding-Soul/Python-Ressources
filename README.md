@@ -1,3 +1,7 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/coding-soul/python-ressources?style=for-the-badge&label=SIZE&color=red)
+![GitHub Repo stars](https://img.shields.io/github/stars/coding-soul/python-ressources?style=for-the-badge&label=Total%20Stars&color=yellow)
+![GitHub last commit](https://img.shields.io/github/last-commit/coding-soul/python-ressources?style=for-the-badge&color=lime)
+
 # Python Introduction
 
 Python is one of the **most popular programming language**. The syntax of python stands out, because of it's low complexity. 
