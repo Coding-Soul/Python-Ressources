@@ -17,6 +17,6 @@ Follow this [installing-guide](https://www.geeksforgeeks.org/how-to-install-pyth
 
 # How to start
 This is the list with the order of this course: If you have any questions, go on our discord server and dont be shy to ask your question. We've all started from scratch!
-1. [Printing Hello World](https://github.com/Coding-Soul/Python-Ressources/blob/main/src/helloworld.py)
-2. [Variables](https://github.com/Coding-Soul/Python-Ressources/blob/main/src/variables.py)
-3. [Datatypes](https://github.com/Coding-Soul/Python-Ressources/blob/main/src/datatypes.py)
+1. [Printing Hello World](https://github.com/Coding-Soul/Python-Ressources/blob/main/src/basics/helloworld.py)
+2. [Variables](https://github.com/Coding-Soul/Python-Ressources/blob/main/src/basics/variables.py)
+3. [Datatypes](https://github.com/Coding-Soul/Python-Ressources/blob/main/src/basics/datatypes.py)
