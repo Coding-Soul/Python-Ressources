@@ -24,3 +24,5 @@ This is the list with the order of this course: If you have any questions, go on
 1. [Printing Hello World](https://github.com/Coding-Soul/Python-Ressources/blob/main/src/basics/helloworld.py)
 2. [Variables](https://github.com/Coding-Soul/Python-Ressources/blob/main/src/basics/variables.py)
 3. [Datatypes](https://github.com/Coding-Soul/Python-Ressources/blob/main/src/basics/datatypes.py)
+4. [Operators](https://github.com/Coding-Soul/Python-Ressources/blob/main/src/basics/operators.py)
+5. [Type-Casting](https://github.com/Coding-Soul/Python-Ressources/blob/main/src/basics/type-casting.py)
