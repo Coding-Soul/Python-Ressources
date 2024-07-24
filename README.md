@@ -2,7 +2,8 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/coding-soul/python-ressources?style=for-the-badge&label=Total%20Stars&color=yellow)
 ![GitHub last commit](https://img.shields.io/github/last-commit/coding-soul/python-ressources?style=for-the-badge&color=lime)
 
-# Python Introduction
+# Python Introduction [CANCELED]
+### Click [here](https://creative-dreamer.gitbook.io/coding-soul-python-course) for the new course!
 
 Python is one of the **most popular programming language**. The syntax of python stands out, because of it's low complexity. 
 
